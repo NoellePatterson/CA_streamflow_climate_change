@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1639703274916.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "346926694",
+    "id" : "178E486E",
+    "lastKnownWriteTime" : 1639703975,
+    "last_content_update" : 1639703975215,
+    "path" : "~/apps/Other/CA_Climate_research_public/process_precip.r",
+    "project_path" : "process_precip.r",
+    "properties" : {
+        "cursorPosition" : "448,41",
+        "scrollLine" : "441"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
